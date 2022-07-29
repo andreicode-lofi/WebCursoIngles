@@ -1,0 +1,91 @@
+.firstSesson{
+    background-image: url('./assets/banner.png');
+    background-color: rgb(100, 0, 194);
+    object-fit: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%);
+}
+    
+
+p.firstTxt{
+   color: #ffffff;
+   font-weight: 150; /*espessura da fonte*/
+   font-size: 2rem;
+   line-height: 3.2rem; /*altura da linha*/
+   margin-top: 100px;
+   margin-left: 50px;
+
+}
+.firstContent{
+    margin-top: 12vh;
+    align-items: center;
+}
+
+.girlimg{
+    margin-left: -50px;
+    margin-top: -95px;
+    min-height: 500px; /*a altura*/
+    width: 500px; /*a vastidão*/ 
+                    
+}
+
+.textoHeadCards{
+    color: #ffffff;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 50; /*espessura da fonte*/
+    font-size: 2rem;
+}
+
+.cards{
+    
+    margin-top: 77px;
+    padding: 3rem;
+    border-radius: 10px;
+    margin-right: -49px;
+    margin-left: -67px;
+}
+
+
+
+
+.formulario{
+    background-color: #ffffff;
+    padding: 3rem;
+    border-radius: 10px;
+
+}
+.mt-5, .my-5 {
+    margin-top: -4rem!important;
+}
+
+.btnForm{
+    width: 100%;/*largura do elemento*/
+    background-color: blueviolet;
+    color: #ffffff;
+}
+
+.girlImgForm{
+    min-height: 500px; /*a altura*/
+    width: 500px;
+    margin-left: 642px;
+    margin-top: -464px;
+}
+
+.contatoTxt{
+   color: #ffffff;
+   font-weight: 150; /*espessura da fonte*/
+   font-size: 2rem;
+   line-height: 3.2rem;
+   text-align: center;
+}
+
+.contatoImg{
+    display: flex;
+    justify-content: space-evenly;
+   
+}
